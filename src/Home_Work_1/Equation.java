@@ -9,8 +9,8 @@ public class Equation {
         int c = 5;
 
         System.out.println("\nSquare equation solution: ");
-        System.out.println("x^2 + 2*x + 3*c\n");
-        System.out.println("a = " + a + " \nb = " + b + " \nc = " + c);
+        System.out.println(a + "*x^2 + " + b + "*x + " + c);
+        System.out.println("\na = " + a + " \nb = " + b + " \nc = " + c);
 
         double D = Math.pow(b, 2) - (4 * a * c);
 

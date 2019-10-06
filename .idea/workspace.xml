@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762f1c3-109d-47ee-97f8-89c9a500df61" name="Default Changelist" comment="Small fixes">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework_1/Home_Work_1/Equation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework_1/Home_Work_1/Equation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home_Work_1/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home_Work_1/Equation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,6 +80,10 @@
       <updated>1570217490992</updated>
       <workItem from="1570217502591" duration="5181000" />
       <workItem from="1570222769213" duration="345000" />
+      <workItem from="1570223267428" duration="27000" />
+      <workItem from="1570223517545" duration="64000" />
+      <workItem from="1570223628862" duration="369000" />
+      <workItem from="1570389798272" duration="3790000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the algorithm for solving the square equation">
       <created>1570222632151</created>
@@ -93,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570223022310</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Optimization of data output">
+      <created>1570223919242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570223919242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented the algorithm for solving the square equation" />
     <MESSAGE value="Small fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small fixes" />
+    <MESSAGE value="Optimization of data output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimization of data output" />
   </component>
 </project>
